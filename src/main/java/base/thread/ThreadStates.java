@@ -1,4 +1,4 @@
-package basic;
+package base.thread;
 
 /*
  * NEW - Thread has not yet started.

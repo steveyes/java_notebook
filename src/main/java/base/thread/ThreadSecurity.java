@@ -1,4 +1,4 @@
-package basic;
+package base.thread;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

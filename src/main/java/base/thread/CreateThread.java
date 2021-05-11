@@ -1,4 +1,4 @@
-package basic;
+package base.thread;
 
 
 public class CreateThread {

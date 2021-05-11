@@ -1,4 +1,4 @@
-package basic;
+package base.basic;
 
 public class ImplInterface {
     public static void main(String[] args) {
